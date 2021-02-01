@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552658313566",
+    "firebase_url": "https://sidaus-d1c5c.firebaseio.com",
+    "project_id": "sidaus-d1c5c",
+    "storage_bucket": "sidaus-d1c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552658313566:android:f1ba5884fef890d0c0afcf",
+        "android_client_info": {
+          "package_name": "dev7.id.sidausappspublic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552658313566-0k8d21bu66483bnk1ilsqj48cfqi12ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmubmH6vLB-chVqh7RkA0url-3WLcqfUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552658313566-0k8d21bu66483bnk1ilsqj48cfqi12ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:visibility="invisible"
+    android:id="@+id/root_error_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/gambar"
+        android:textSize="28sp"
+        android:src="@drawable/error"
+        android:layout_centerInParent="true"
+        android:text="Tidak dapat terhubung ke server"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/gambar"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Opps ! Ada yang salah"/>
+
+</RelativeLayout>
